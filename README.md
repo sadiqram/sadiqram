@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=4000&pause=1000&color=38F700&width=435&lines=Hi+there%F0%9F%91%8B%2C+I'm+Sadiq;Welcome+to+my+GitHub!+%F0%9F%98%84;I'm+a+passionate+Software+Engineer%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;I+love+learning+new+technologies+%F0%9F%92%A1+;Check+out+my+projects+below!+%F0%9F%91%87)](https://git.io/typing-svg)
+
+
 <img align="right" alt="Coding" width="375" height="235" src="https://github.com/user-attachments/assets/3ed50fcc-4d76-47b4-8445-6e9c411fa45d">
 
 🙋🏽‍♂️ I’m a Software Engineer and Computer Science Student
