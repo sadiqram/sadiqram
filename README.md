@@ -37,9 +37,7 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sadiqram&show_icons=true&theme=highcontrast&locale=en&layout=compact&cache-bust=1" height="195" />
   &nbsp;
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=sadiqram&theme=highcontrast&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=400&background=1A1B27&hide_longest_streak=true&cache-bust=1" height="195" /> -->
-<!-- <img src="https://streak-stats.demolab.com?user=sadiqram&theme=highcontrast&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=400&background=1A1B27&hide_longest_streak=true" height="195" /> -->
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sadiqram&theme=highcontrast" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sadiqram&theme=highcontrast" alt="GitHub Streak" /></a>
 </div>
 
 
