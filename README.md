@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sadiqram&show_icons=true&theme=highcontrast&locale=en&layout=compact&cache-bust=1" height="195" />
   &nbsp;
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sadiqram&theme=highcontrast" alt="GitHub Streak" /></a>
+  <img src="https://streak-stats.demolab.com?user=sadiqram&theme=highcontrast" alt="GitHub Streak" />
 </div>
 
 
