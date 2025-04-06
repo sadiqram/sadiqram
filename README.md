@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   &nbsp;
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eta-dusky.vercel.app?user=sadiqram&theme=radical&hide_longest_streak=true" alt="GitHub Streak" /></a> 
 </div>
-[![GitHub Streak](https://github-readme-streak-stats-7pqjgbyat-sadiq-ramanus-projects.vercel.app?user=sadiqram&theme=highcontrast&exclude_days=Sat)](https://git.io/streak-stats)
+
 
 
 
