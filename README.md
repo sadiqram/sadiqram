@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 🙋🏽‍♂️ I’m a Software Engineer and Computer Science Student
 
-💬 Ask me about: **Computer Science**, **Full-Stack Development**, **Video Games** and **Anime**
+💬 Ask me about: **Computer Science Concepts**, **Full-Stack Development**, **Video Games** and **Anime**
 
 🌱 I’m currently studying: **Computer Architecture** and **Systems Design**
 
